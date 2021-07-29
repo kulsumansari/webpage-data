@@ -1,0 +1,70 @@
+{
+    "navData": {
+      "logo": {
+        "imgSrc": "https://niravkpatel28.github.io/github-image-repository/webpage/surfboard-logo.png",
+        "alt": "Surfboard India Company Logo"
+      },
+      "navLinks": [
+        { "linkId": "li1", "title": "Home", "href": "#" },
+        { "linkId": "li2", "title": "Our Work", "href": "#ourwork" },
+        { "linkId": "li3", "title": "About Us", "href": "#" },
+        { "linkId": "li4", "title": "Register", "href": "#", "isCta": true }
+      ]
+    },
+
+    "bannerData": {
+      "companyName": "Render Webpage using JavaScript Object",
+      "tagline": "using modular code for page rendering",
+      "cta" : {
+        "link": "Contact Us",
+        "href":"#"
+      },
+      "bannerImage": "https://niravkpatel28.github.io/github-image-repository/webpage/banner2.png"
+    },
+
+    "footerData":{
+        "footerLogo":{
+          "imgSrc": "https://niravkpatel28.github.io/github-image-repository/webpage/surfboard-logo.png",
+          "alt": "Surfboard India Company Logo"
+        },
+        "footerLinkHead":"Follow Us On",
+        "footerLinks":[
+          {
+            "linkclass": "fa-twitter",
+            "href": "#"
+          },
+          {
+            "linkclass": "fa-facebook",
+            "href": "#"
+          },
+          {
+            "linkclass": "fa-github", 
+            "href": "#"
+          },
+          {
+            "linkclass": "fa-instagram",
+            "href": "#"
+          }
+        ]
+    },
+
+    "ourWorkData":{
+        "id" : "ourwork",
+        "heading": "Our Work",
+        "content": [
+      
+          {
+            "imageSrc":"https://kulsumansari.github.io/webpage-data/images/camping.jpg",
+            "subheading":"Tour To Goa",
+            "para":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Excepturi iure, animi quod harum doloribus adipisci odit iusto commodi exercitationem ipsam architecto beatae, quisquam minima nihil et quae, labore rem. Quasi expedita eos quos aliquid distinctio autem libero velit consectetur porro ad. Saepe ipsum itaque officia nobis repudiandae laboriosam eius qui veritatis, sapiente dignissimos nemo voluptatibus voluptate iure ratione odit vel ut laborum nihil libero suscipit molestias esse optio. Nemo cum deleniti explicabo corrupti accusantium. Reprehenderit pariatur a error officia obcaecati!"
+          },
+          {
+            "imageSrc":"https://kulsumansari.github.io/webpage-data/images/trekking.jpg",
+            "subheading":"Tour To Shimla And Chandigarh",
+            "para" :"Lorem,ipsum dolor sit amet consectetur adipisicing elit. Excepturi iure, animi quod harum doloribus adipisci odit iusto commodi exercitationem ipsam architecto beatae, quisquam minima nihil et quae, labore rem. Quasi expedita eos quos aliquid distinctio autem libero velit consectetur porro ad. Saepe ipsum itaque officia nobis repudiandae laboriosam eius qui veritatis, sapiente dignissimos!"
+          }
+      
+        ]
+    }
+
+}
