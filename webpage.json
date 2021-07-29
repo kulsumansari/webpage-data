@@ -10,7 +10,7 @@
         { "linkId": "li3", "title": "About Us", "href": "#" },
         { "linkId": "li4", "title": "Register", "href": "#", "isCta": true }
       ],
-      "menuUrl": "https://niravkpatel28.github.io/github-image-repository/webpage/menu-black.png",
+      "menuUrl": "https://niravkpatel28.github.io/github-image-repository/webpage/menu-black.png"
     },
 
     "bannerData": {
