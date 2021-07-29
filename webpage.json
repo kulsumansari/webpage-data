@@ -1,6 +1,5 @@
 {
     "navData": {
-      "menuUrl": "https://niravkpatel28.github.io/github-image-repository/webpage/menu-black.png",
       "logo": {
         "imgSrc": "https://niravkpatel28.github.io/github-image-repository/webpage/surfboard-logo.png",
         "alt": "Surfboard India Company Logo"
@@ -10,8 +9,8 @@
         { "linkId": "li2", "title": "Our Work", "href": "#ourwork" },
         { "linkId": "li3", "title": "About Us", "href": "#" },
         { "linkId": "li4", "title": "Register", "href": "#", "isCta": true }
-      ]
-      
+      ],
+      "menuUrl":"https://niravkpatel28.github.io/github-image-repository/webpage/menu-black.png"
     },
 
     "bannerData": {
@@ -68,5 +67,6 @@
       
         ]
     }
+   
 
 }
