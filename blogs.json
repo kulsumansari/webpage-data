@@ -1,4 +1,46 @@
-[
+
+{
+  "navData": {
+    "logo": {
+      "imgSrc": "https://niravkpatel28.github.io/github-image-repository/webpage/surfboard-logo.png",
+      "alt": "Surfboard India Company Logo"
+    },
+    "navLinks": [
+      { "linkId": "li1", "title": "Home", "href": "#" },
+      { "linkId": "li2", "title": "Our Work", "href": "#ourwork" },
+      { "linkId": "li3", "title": "About Us", "href": "#" },
+      { "linkId": "li4", "title": "Register", "href": "#", "isCta": true }
+    ],
+    "menuUrl":"https://niravkpatel28.github.io/github-image-repository/webpage/menu-black.png"
+  },
+
+  "footerData":{
+      "footerLogo":{
+        "imgSrc": "https://niravkpatel28.github.io/github-image-repository/webpage/surfboard-logo.png",
+        "alt": "Surfboard India Company Logo"
+      },
+      "footerLinkHead":"Follow Us On",
+      "footerLinks":[
+        {
+          "linkclass": "fa-twitter",
+          "href": "#"
+        },
+        {
+          "linkclass": "fa-facebook",
+          "href": "#"
+        },
+        {
+          "linkclass": "fa-github", 
+          "href": "#"
+        },
+        {
+          "linkclass": "fa-instagram",
+          "href": "#"
+        }
+      ]
+  },
+
+  "blogData":[
   {
     "id": "2rvqpdbpka3n3fhd",
     "author": "Aryanna  Gulgowski",
@@ -242,3 +284,4 @@
     "imageUrl": "https://cdn.fs.teachablecdn.com/JGo66OJORkWTyjoNbVxQ"
   }
 ]
+}
