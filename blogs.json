@@ -7,7 +7,7 @@
     },
     "navLinks": [
       { "linkId": "li1", "title": "Home", "href": "#" },
-      { "linkId": "li2", "title": "Our Work", "href": "#ourwork" },
+      { "linkId": "li2", "title": "Blogs", "href": "#ourblog" },
       { "linkId": "li3", "title": "About Us", "href": "#" },
       { "linkId": "li4", "title": "Register", "href": "#", "isCta": true }
     ],
