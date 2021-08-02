@@ -2,8 +2,8 @@
 {
   "navData": {
     "logo": {
-      "imgSrc": "https://niravkpatel28.github.io/github-image-repository/webpage/surfboard-logo.png",
-      "alt": "Surfboard India Company Logo"
+      "imgSrc": "https://kulsumansari.github.io/webpage-data/images/travelLogo.png",
+      "alt": "Company Logo"
     },
     "navLinks": [
       { "linkId": "li1", "title": "Home", "href": "#" },
