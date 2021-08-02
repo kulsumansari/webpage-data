@@ -6,10 +6,8 @@
       "alt": "Company Logo"
     },
     "navLinks": [
-      { "linkId": "li1", "title": "Home", "href": "#" },
-      { "linkId": "li2", "title": "Blogs", "href": "#ourblog" },
-      { "linkId": "li3", "title": "About Us", "href": "#" },
-      { "linkId": "li4", "title": "Register", "href": "#", "isCta": true }
+      { "linkId": "li1", "title": "Blogs", "href": "#ourblog" },
+      { "linkId": "li2", "title": "Subscribe", "href": "#", "isCta": true }
     ],
     "menuUrl":"https://kulsumansari.github.io/webpage-data/images/menu-white.png"
   },
