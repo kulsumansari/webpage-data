@@ -33,22 +33,22 @@
             "footerLinks":[
             {
                 "linkId":"footerLink1",
-                "linkclass": "fa-twitter",
+                "linkIcon": "twitter",
                 "href": "#"
             },
             {
                 "linkId":"footerLink2",
-                "linkclass": "fa-facebook",
+                "linkIcon": "facebook",
                 "href": "#"
             },
             {
                 "linkId":"footerLink3",
-                "linkclass": "fa-github", 
+                "linkIcon": "github", 
                 "href": "#"
             },
             {
                 "linkId":"footerLink4",
-                "linkclass": "fa-instagram",
+                "linkIcon": "instagram",
                 "href": "#"
             }
             ]
@@ -89,22 +89,22 @@
             "footerLinks":[
             {
                 "linkId":"footerLink1",
-                "linkclass": "fa-twitter",
+                "linkIcon": "twitter",
                 "href": "#"
             },
             {
                 "linkId":"footerLink2",
-                "linkclass": "fa-facebook",
+                "linkIcon": "facebook",
                 "href": "#"
             },
             {
                 "linkId":"footerLink3",
-                "linkclass": "fa-github", 
+                "linkIcon": "github", 
                 "href": "#"
             },
             {
                 "linkId":"footerLink4",
-                "linkclass": "fa-instagram",
+                "linkIcon": "instagram",
                 "href": "#"
             }
             ]
@@ -145,22 +145,22 @@
             "footerLinks":[
               {
                 "linkId":"footerLink1",
-                "linkclass": "fa-twitter",
+                "linkIcon": "twitter",
                 "href": "#"
             },
             {
                 "linkId":"footerLink2",
-                "linkclass": "fa-facebook",
+                "linkIcon": "facebook",
                 "href": "#"
             },
             {
                 "linkId":"footerLink3",
-                "linkclass": "fa-github", 
+                "linkIcon": "github", 
                 "href": "#"
             },
             {
                 "linkId":"footerLink4",
-                "linkclass": "fa-instagram",
+                "linkIcon": "instagram",
                 "href": "#"
             }
             ]
