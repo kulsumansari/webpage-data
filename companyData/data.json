@@ -67,8 +67,8 @@
         },
 
         "bannerData": {
-        "companyName": "Surf Board",
-        "tagline": "using modular code for page rendering",
+        "companyName": "Raw Engineering",
+        "tagline": "Fast Track Innovation From Vision to Reality",
         "cta" : {
             "link": "Contact Us",
             "href":"#"
@@ -79,7 +79,7 @@
         "footerData":{
             "footerLogo":{
             "imgSrc": "https://kulsumansari.github.io/webpage-data/companyData/Raw%20Engineering.png",
-            "alt": "Surfboard India Company Logo"
+            "alt": "Raw Eng India Company Logo"
             },
             "footerLinkHead":"Follow Us On",
             "footerLinks":[
@@ -131,7 +131,7 @@
         "footerData":{
             "footerLogo":{
             "imgSrc": "https://kulsumansari.github.io/webpage-data/companyData/Contentstack.png",
-            "alt": "Surfboard India Company Logo"
+            "alt": "Contentstack India Company Logo"
             },
             "footerLinkHead":"Follow Us On",
             "footerLinks":[
