@@ -21,7 +21,7 @@
             "link": "Contact Us",
             "href":"#"
         },
-        "bannerImage": "https://kulsumansari.github.io/webpage-data/companyData/surfboard-banner.png"
+        "bannerImage": "https://kulsumansari.github.io/webpage-data/companyData/surfboard-banner.jpg"
         },
 
         "footerData":{
@@ -59,8 +59,8 @@
         },
         "navLinks": [
             { "linkId": "li1", "title": "Home", "href": "#" },
-            { "linkId": "li2", "title": "Our Work", "href": "#ourwork" },
-            { "linkId": "li3", "title": "About Us", "href": "#" },
+            { "linkId": "li2", "title": "Surfboard", "href": "/surboard" },
+            { "linkId": "li3", "title": "ContentStack", "href": "/contentstack" },
             { "linkId": "li4", "title": "Contact Us", "href": "#", "isCta": true }
         ],
         "menuUrl":"https://niravkpatel28.github.io/github-image-repository/webpage/menu-black.png"
@@ -110,17 +110,17 @@
             "alt": "Surfboard India Company Logo"
         },
         "navLinks": [
-            { "linkId": "li1", "title": "Home", "href": "#" },
-            { "linkId": "li2", "title": "Our Work", "href": "#ourwork" },
-            { "linkId": "li3", "title": "About Us", "href": "#" },
-            { "linkId": "li4", "title": "Contact Us", "href": "#", "isCta": true }
+            { "linkId": "li1", "title": "Home", "href": "/" },
+            { "linkId": "li2", "title": "Raw Enginnering", "href": "/raweng" },
+            { "linkId": "li3", "title": "Surfboard", "href": "/surfboard" },
+            { "linkId": "li4", "title": "Contact Us", "href": "/", "isCta": true }
         ],
         "menuUrl":"https://niravkpatel28.github.io/github-image-repository/webpage/menu-black.png"
         },
 
         "bannerData": {
-        "companyName": "Surf Board",
-        "tagline": "using modular code for page rendering",
+        "companyName": "Content Stack",
+        "tagline": "Move Towards Headless Content Mangement system",
         "cta" : {
             "link": "Contact Us",
             "href":"#"
