@@ -1,0 +1,157 @@
+{
+    "surfBoardData":{
+        "navData": {
+        "logo": {
+            "imgSrc": "https://kulsumansari.github.io/webpage-data/companyData/Surfboard%20India.png",
+            "alt": "Surfboard India Company Logo"
+        },
+        "navLinks": [
+            { "linkId": "li1", "title": "Home", "href": "#" },
+            { "linkId": "li2", "title": "ContentStack", "href": "/raweng" },
+            { "linkId": "li3", "title": "Raw Engineering", "href": "/contentstack" },
+            { "linkId": "li4", "title": "Contact Us", "href": "#", "isCta": true }
+        ],
+        "menuUrl":"https://niravkpatel28.github.io/github-image-repository/webpage/menu-black.png"
+        },
+
+        "bannerData": {
+        "companyName": "Surfboard Ventures",
+        "tagline": "Just Keep paddling!!",
+        "cta" : {
+            "link": "Contact Us",
+            "href":"#"
+        },
+        "bannerImage": ""
+        },
+
+        "footerData":{
+            "footerLogo":{
+            "imgSrc": "https://kulsumansari.github.io/webpage-data/companyData/Surfboard%20India.png",
+            "alt": "Surfboard India Company Logo"
+            },
+            "footerLinkHead":"Follow Us On",
+            "footerLinks":[
+            {
+                "linkclass": "fa-twitter",
+                "href": "#"
+            },
+            {
+                "linkclass": "fa-facebook",
+                "href": "#"
+            },
+            {
+                "linkclass": "fa-github", 
+                "href": "#"
+            },
+            {
+                "linkclass": "fa-instagram",
+                "href": "#"
+            }
+            ]
+        }
+    },
+    
+    "rawEngData":{
+        "navData": {
+        "logo": {
+            "imgSrc": "https://kulsumansari.github.io/webpage-data/companyData/Raw%20Engineering.png",
+            "alt": "Surfboard India Company Logo"
+        },
+        "navLinks": [
+            { "linkId": "li1", "title": "Home", "href": "#" },
+            { "linkId": "li2", "title": "Our Work", "href": "#ourwork" },
+            { "linkId": "li3", "title": "About Us", "href": "#" },
+            { "linkId": "li4", "title": "Contact Us", "href": "#", "isCta": true }
+        ],
+        "menuUrl":"https://niravkpatel28.github.io/github-image-repository/webpage/menu-black.png"
+        },
+
+        "bannerData": {
+        "companyName": "Surf Board",
+        "tagline": "using modular code for page rendering",
+        "cta" : {
+            "link": "Contact Us",
+            "href":"#"
+        },
+        "bannerImage": "https://kulsumansari.github.io/webpage-data/companyData/rawengBanner.jpeg"
+        },
+
+        "footerData":{
+            "footerLogo":{
+            "imgSrc": "https://kulsumansari.github.io/webpage-data/companyData/Raw%20Engineering.png",
+            "alt": "Surfboard India Company Logo"
+            },
+            "footerLinkHead":"Follow Us On",
+            "footerLinks":[
+            {
+                "linkclass": "fa-twitter",
+                "href": "#"
+            },
+            {
+                "linkclass": "fa-facebook",
+                "href": "#"
+            },
+            {
+                "linkclass": "fa-github", 
+                "href": "#"
+            },
+            {
+                "linkclass": "fa-instagram",
+                "href": "#"
+            }
+            ]
+        }
+    },
+
+    "contentStackData":{
+        "navData": {
+        "logo": {
+            "imgSrc": "https://kulsumansari.github.io/webpage-data/companyData/Contentstack.png",
+            "alt": "Surfboard India Company Logo"
+        },
+        "navLinks": [
+            { "linkId": "li1", "title": "Home", "href": "#" },
+            { "linkId": "li2", "title": "Our Work", "href": "#ourwork" },
+            { "linkId": "li3", "title": "About Us", "href": "#" },
+            { "linkId": "li4", "title": "Contact Us", "href": "#", "isCta": true }
+        ],
+        "menuUrl":"https://niravkpatel28.github.io/github-image-repository/webpage/menu-black.png"
+        },
+
+        "bannerData": {
+        "companyName": "Surf Board",
+        "tagline": "using modular code for page rendering",
+        "cta" : {
+            "link": "Contact Us",
+            "href":"#"
+        },
+        "bannerImage": "https://kulsumansari.github.io/webpage-data/companyData/Contentstack.png"
+        },
+
+        "footerData":{
+            "footerLogo":{
+            "imgSrc": "https://kulsumansari.github.io/webpage-data/companyData/Contentstack.png",
+            "alt": "Surfboard India Company Logo"
+            },
+            "footerLinkHead":"Follow Us On",
+            "footerLinks":[
+            {
+                "linkclass": "fa-twitter",
+                "href": "#"
+            },
+            {
+                "linkclass": "fa-facebook",
+                "href": "#"
+            },
+            {
+                "linkclass": "fa-github", 
+                "href": "#"
+            },
+            {
+                "linkclass": "fa-instagram",
+                "href": "#"
+            }
+            ]
+        }
+    }
+}
