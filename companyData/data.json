@@ -59,7 +59,7 @@
         },
         "navLinks": [
             { "linkId": "li1", "title": "Home", "href": "#" },
-            { "linkId": "li2", "title": "Surfboard", "href": "/surboard" },
+            { "linkId": "li2", "title": "Surfboard", "href": "/surfboard" },
             { "linkId": "li3", "title": "ContentStack", "href": "/contentstack" },
             { "linkId": "li4", "title": "Contact Us", "href": "#", "isCta": true }
         ],
