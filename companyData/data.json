@@ -32,18 +32,22 @@
             "footerLinkHead":"Follow Us On",
             "footerLinks":[
             {
+                "linkId":"footerLink1",
                 "linkclass": "fa-twitter",
                 "href": "#"
             },
             {
+                "linkId":"footerLink2",
                 "linkclass": "fa-facebook",
                 "href": "#"
             },
             {
+                "linkId":"footerLink3",
                 "linkclass": "fa-github", 
                 "href": "#"
             },
             {
+                "linkId":"footerLink4",
                 "linkclass": "fa-instagram",
                 "href": "#"
             }
@@ -84,18 +88,22 @@
             "footerLinkHead":"Follow Us On",
             "footerLinks":[
             {
+                "linkId":"footerLink1",
                 "linkclass": "fa-twitter",
                 "href": "#"
             },
             {
+                "linkId":"footerLink2",
                 "linkclass": "fa-facebook",
                 "href": "#"
             },
             {
+                "linkId":"footerLink3",
                 "linkclass": "fa-github", 
                 "href": "#"
             },
             {
+                "linkId":"footerLink4",
                 "linkclass": "fa-instagram",
                 "href": "#"
             }
@@ -135,19 +143,23 @@
             },
             "footerLinkHead":"Follow Us On",
             "footerLinks":[
-            {
+              {
+                "linkId":"footerLink1",
                 "linkclass": "fa-twitter",
                 "href": "#"
             },
             {
+                "linkId":"footerLink2",
                 "linkclass": "fa-facebook",
                 "href": "#"
             },
             {
+                "linkId":"footerLink3",
                 "linkclass": "fa-github", 
                 "href": "#"
             },
             {
+                "linkId":"footerLink4",
                 "linkclass": "fa-instagram",
                 "href": "#"
             }
