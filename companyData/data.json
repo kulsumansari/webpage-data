@@ -1,5 +1,9 @@
 {
     "surfBoardData":{
+        "page":{
+            "title":"Surfboard Ventures",
+            "icon":"https://kulsumansari.github.io/webpage-data/companyData/surboard-icon.png"
+        },
         "navData": {
         "logo": {
             "imgSrc": "https://kulsumansari.github.io/webpage-data/companyData/Surfboard%20India.png",
@@ -56,6 +60,10 @@
     },
     
     "rawEngData":{
+        "page":{
+            "title":"Raw Engineering",
+            "icon":"https://kulsumansari.github.io/webpage-data/companyData/raweng-icon.png"
+        },
         "navData": {
         "logo": {
             "imgSrc": "https://kulsumansari.github.io/webpage-data/companyData/raweng-logo.png",
@@ -112,6 +120,10 @@
     },
 
     "contentStackData":{
+        "page":{
+            "title":"Contentstack",
+            "icon":"https://kulsumansari.github.io/webpage-data/companyData/contentstack-icon.png"
+         },
         "navData": {
         "logo": {
             "imgSrc": "https://kulsumansari.github.io/webpage-data/companyData/contentstack-blue-logo.png",
