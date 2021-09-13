@@ -6,10 +6,10 @@
             "alt": "Surfboard India Company Logo"
         },
         "navLinks": [
-            { "linkId": "li1", "title": "Home", "href": "#" },
+            { "linkId": "li1", "title": "Home", "href": "/" },
             { "linkId": "li2", "title": "ContentStack", "href": "/raweng" },
             { "linkId": "li3", "title": "Raw Engineering", "href": "/contentstack" },
-            { "linkId": "li4", "title": "Contact Us", "href": "#", "isCta": true }
+            { "linkId": "li4", "title": "Contact Us", "href": "/", "isCta": true }
         ],
         "menuUrl":"https://niravkpatel28.github.io/github-image-repository/webpage/menu-black.png"
         },
