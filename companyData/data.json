@@ -6,17 +6,17 @@
             "alt": "Surfboard India Company Logo"
         },
         "navLinks": [
-            { "linkId": "li1", "title": "Home", "href": "/" },
-            { "linkId": "li2", "title": "ContentStack", "href": "/contentstack" },
+            { "linkId": "li1", "title": "Home", "href": "/surfboard" },
+            { "linkId": "li2", "title": "Content Stack", "href": "/contentstack" },
             { "linkId": "li3", "title": "Raw Engineering", "href": "/raweng" },
-            { "linkId": "li4", "title": "Contact Us", "href": "/", "isCta": true }
+            { "linkId": "li4", "title": "Contact Us", "href": "#", "isCta": true }
         ],
         "menuUrl":"https://niravkpatel28.github.io/github-image-repository/webpage/menu-black.png"
         },
 
         "bannerData": {
         "companyName": "Surfboard Ventures",
-        "tagline": "Just Keep paddling!!",
+        "tagline": "Your resilience stands tall against the roughest seas. Just Keep paddling!",
         "cta" : {
             "link": "Contact Us",
             "href":"#"
@@ -62,9 +62,9 @@
             "alt": "Surfboard India Company Logo"
         },
         "navLinks": [
-            { "linkId": "li1", "title": "Home", "href": "#" },
+            { "linkId": "li1", "title": "Home", "href": "/raweng" },
             { "linkId": "li2", "title": "Surfboard", "href": "/surfboard" },
-            { "linkId": "li3", "title": "ContentStack", "href": "/contentstack" },
+            { "linkId": "li3", "title": "Content Stack", "href": "/contentstack" },
             { "linkId": "li4", "title": "Contact Us", "href": "#", "isCta": true }
         ],
         "menuUrl":"https://niravkpatel28.github.io/github-image-repository/webpage/menu-black.png"
@@ -118,17 +118,17 @@
             "alt": "Surfboard India Company Logo"
         },
         "navLinks": [
-            { "linkId": "li1", "title": "Home", "href": "/" },
+            { "linkId": "li1", "title": "Home", "href": "/contentstack" },
             { "linkId": "li2", "title": "Raw Engineering", "href": "/raweng" },
             { "linkId": "li3", "title": "Surfboard", "href": "/surfboard" },
-            { "linkId": "li4", "title": "Contact Us", "href": "/", "isCta": true }
+            { "linkId": "li4", "title": "Contact Us", "href": "#", "isCta": true }
         ],
         "menuUrl":"https://niravkpatel28.github.io/github-image-repository/webpage/menu-black.png"
         },
 
         "bannerData": {
         "companyName": "Content Stack",
-        "tagline": "Move Towards Headless Content Mangement system",
+        "tagline": "Moving Towards Headless Content Mangement system",
         "cta" : {
             "link": "Contact Us",
             "href":"#"
