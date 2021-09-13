@@ -58,7 +58,7 @@
     "rawEngData":{
         "navData": {
         "logo": {
-            "imgSrc": "https://kulsumansari.github.io/webpage-data/companyData/Raw%20Engineering.png",
+            "imgSrc": "https://kulsumansari.github.io/webpage-data/companyData/raweng-logo.png",
             "alt": "Surfboard India Company Logo"
         },
         "navLinks": [
@@ -82,7 +82,7 @@
 
         "footerData":{
             "footerLogo":{
-            "imgSrc": "https://kulsumansari.github.io/webpage-data/companyData/Raw%20Engineering.png",
+            "imgSrc": "https://kulsumansari.github.io/webpage-data/companyData/raweng-logo.png",
             "alt": "Raw Eng India Company Logo"
             },
             "footerLinkHead":"Follow Us On",
