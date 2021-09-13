@@ -145,22 +145,22 @@
             "footerLinks":[
               {
                 "linkId":"footerLink1",
-                "linkIcon": "twitter",
+                "linkIcon": "Twitter",
                 "href": "#"
             },
             {
                 "linkId":"footerLink2",
-                "linkIcon": "facebook",
+                "linkIcon": "Facebook",
                 "href": "#"
             },
             {
                 "linkId":"footerLink3",
-                "linkIcon": "github", 
+                "linkIcon": "Github", 
                 "href": "#"
             },
             {
                 "linkId":"footerLink4",
-                "linkIcon": "instagram",
+                "linkIcon": "Instagram",
                 "href": "#"
             }
             ]
