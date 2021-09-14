@@ -7,7 +7,7 @@
      "navData": {
          "logo": {
              "imgSrc": "https://kulsumansari.github.io/webpage-data/companyData/ssr-logo.png",
-             "alt": "Surfboard India Company Logo"
+             "alt": "Server Side Rendering  Logo"
          },
          "navLinks": [
              { "linkId": "navLink1", "title": "Home", "href": "/" },
@@ -28,7 +28,7 @@
      "footerData":{
          "footerLogo":{
          "imgSrc": "https://kulsumansari.github.io/webpage-data/companyData/ssr-logo.png",
-         "alt": "Surfboard India Company Logo"
+         "alt": "Server Side Rendering Logo"
          },
          "footerLinkHead":"Follow Us On",
          "footerLinks":[
