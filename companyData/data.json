@@ -16,7 +16,7 @@
              { "linkId": "navLink3", "title": "Blogs", "href": "#Blogs" },
              { "linkId": "navLink4", "title": "Contact Us", "href": "#", "isCta": true }
          ],
-         "menuUrl":"https://niravkpatel28.github.io/github-image-repository/webpage/menu-black.png"
+         "menuUrl":"https://kulsumansari.github.io/webpage-data/companyData/menu-white.png"
      },
      "partnersData":{
          "title" : "Our Partners",
@@ -71,7 +71,7 @@
          { "linkId": "navLink3", "title": "Raw Engineering", "href": "/raweng" },
          { "linkId": "navLink4", "title": "Contact Us", "href": "#", "isCta": true }
      ],
-     "menuUrl":"https://niravkpatel28.github.io/github-image-repository/webpage/menu-black.png"
+     "menuUrl":"https://kulsumansari.github.io/webpage-data/companyData/menu-black.png"
      },
 
      "bannerData": {
@@ -131,7 +131,7 @@
          { "linkId": "navLink3", "title": "Contentstack", "href": "/contentstack" },
          { "linkId": "navLink4", "title": "Contact Us", "href": "#", "isCta": true }
      ],
-     "menuUrl":"https://niravkpatel28.github.io/github-image-repository/webpage/menu-black.png"
+     "menuUrl":"https://kulsumansari.github.io/webpage-data/companyData/menu-white.png"
      },
 
      "bannerData": {
@@ -191,7 +191,7 @@
          { "linkId": "navLink3", "title": "Surfboard", "href": "/surfboard" },
          { "linkId": "navLink4", "title": "Contact Us", "href": "#", "isCta": true }
      ],
-     "menuUrl":"https://niravkpatel28.github.io/github-image-repository/webpage/menu-black.png"
+     "menuUrl":"https://kulsumansari.github.io/webpage-data/companyData/menu-white.png"
      },
 
      "bannerData": {
