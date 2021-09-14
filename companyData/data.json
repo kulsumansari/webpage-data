@@ -67,9 +67,10 @@
      },
      "navLinks": [
          { "linkId": "navLink1", "title": "Home", "href": "/surfboard" },
-         { "linkId": "navLink2", "title": "Contentstack", "href": "/contentstack" },
-         { "linkId": "navLink3", "title": "Raw Engineering", "href": "/raweng" },
-         { "linkId": "navLink4", "title": "Contact Us", "href": "#", "isCta": true }
+         { "linkId": "navLink2", "title": "SSR", "href": "/" }
+         { "linkId": "navLink3", "title": "Contentstack", "href": "/contentstack" },
+         { "linkId": "navLink4", "title": "Raw Engineering", "href": "/raweng" },
+         { "linkId": "navLink5", "title": "Contact Us", "href": "#", "isCta": true }
      ],
      "menuUrl":"https://kulsumansari.github.io/webpage-data/companyData/menu-black.png"
      },
@@ -127,9 +128,10 @@
      },
      "navLinks": [
          { "linkId": "navLink1", "title": "Home", "href": "/raweng" },
-         { "linkId": "navLink2", "title": "Surfboard", "href": "/surfboard" },
-         { "linkId": "navLink3", "title": "Contentstack", "href": "/contentstack" },
-         { "linkId": "navLink4", "title": "Contact Us", "href": "#", "isCta": true }
+         { "linkId": "navLink2", "title": "SSR", "href": "/" }
+         { "linkId": "navLink3", "title": "Surfboard", "href": "/surfboard" },
+         { "linkId": "navLink4", "title": "Contentstack", "href": "/contentstack" },
+         { "linkId": "navLink5", "title": "Contact Us", "href": "#", "isCta": true }
      ],
      "menuUrl":"https://kulsumansari.github.io/webpage-data/companyData/menu-white.png"
      },
@@ -187,9 +189,10 @@
      },
      "navLinks": [
          { "linkId": "navLink1", "title": "Home", "href": "/contentstack" },
-         { "linkId": "navLink2", "title": "Raw Engineering", "href": "/raweng" },
-         { "linkId": "navLink3", "title": "Surfboard", "href": "/surfboard" },
-         { "linkId": "navLink4", "title": "Contact Us", "href": "#", "isCta": true }
+         { "linkId": "navLink2", "title": "SSR", "href": "/" }
+         { "linkId": "navLink3", "title": "Raw Engineering", "href": "/raweng" },
+         { "linkId": "navLink4", "title": "Surfboard", "href": "/surfboard" },
+         { "linkId": "navLink5", "title": "Contact Us", "href": "#", "isCta": true }
      ],
      "menuUrl":"https://kulsumansari.github.io/webpage-data/companyData/menu-white.png"
      },
