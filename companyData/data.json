@@ -23,7 +23,7 @@
          "partners":[
             { "partnerId": "link1", "companyName": "Surfboard Ventures", "href": "/surfboard" ,"backgroundImg": "https://kulsumansari.github.io/webpage-data/companyData/surfboardbanner.jpg"},
             { "partnerId": "link2", "companyName": "Raw Engineering", "href": "/raweng" , "backgroundImg": "https://kulsumansari.github.io/webpage-data/companyData/banner.jpeg"},
-            { "partnerId": "link1", "companyName": "Contentstack", "href": "/contentstack" ,"backgroundImg": "https://kulsumansari.github.io/webpage-data/companyData/cs-background.png"}
+            { "partnerId": "link3", "companyName": "Contentstack", "href": "/contentstack" ,"backgroundImg": "https://kulsumansari.github.io/webpage-data/companyData/cs-background.png"}
      ]},
      "footerData":{
          "footerLogo":{
