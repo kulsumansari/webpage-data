@@ -67,7 +67,7 @@
      },
      "navLinks": [
          { "linkId": "navLink1", "title": "Home", "href": "/surfboard" },
-         { "linkId": "navLink2", "title": "SSR", "href": "/" }
+         { "linkId": "navLink2", "title": "SSR", "href": "/" },
          { "linkId": "navLink3", "title": "Contentstack", "href": "/contentstack" },
          { "linkId": "navLink4", "title": "Raw Engineering", "href": "/raweng" },
          { "linkId": "navLink5", "title": "Contact Us", "href": "#", "isCta": true }
@@ -128,7 +128,7 @@
      },
      "navLinks": [
          { "linkId": "navLink1", "title": "Home", "href": "/raweng" },
-         { "linkId": "navLink2", "title": "SSR", "href": "/" }
+         { "linkId": "navLink2", "title": "SSR", "href": "/" },
          { "linkId": "navLink3", "title": "Surfboard", "href": "/surfboard" },
          { "linkId": "navLink4", "title": "Contentstack", "href": "/contentstack" },
          { "linkId": "navLink5", "title": "Contact Us", "href": "#", "isCta": true }
