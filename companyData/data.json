@@ -13,8 +13,8 @@
              { "linkId": "navLink1", "title": "Home", "href": "/" },
              { "linkId": "navLink2", "title": "Products", "href": "#Products" },
              { "linkId": "navLink3", "title": "About Us", "href": "#AboutUs" },
-             { "linkId": "navLink3", "title": "Blogs", "href": "#Blogs" },
-             { "linkId": "navLink4", "title": "Contact Us", "href": "#", "isCta": true }
+             { "linkId": "navLink4", "title": "Blogs", "href": "#Blogs" },
+             { "linkId": "navLink5", "title": "Contact Us", "href": "#", "isCta": true }
          ],
          "menuUrl":"https://kulsumansari.github.io/webpage-data/companyData/menu-white.png"
      },
