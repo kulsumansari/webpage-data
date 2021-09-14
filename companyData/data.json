@@ -189,7 +189,7 @@
      },
      "navLinks": [
          { "linkId": "navLink1", "title": "Home", "href": "/contentstack" },
-         { "linkId": "navLink2", "title": "SSR", "href": "/" }
+         { "linkId": "navLink2", "title": "SSR", "href": "/" },
          { "linkId": "navLink3", "title": "Raw Engineering", "href": "/raweng" },
          { "linkId": "navLink4", "title": "Surfboard", "href": "/surfboard" },
          { "linkId": "navLink5", "title": "Contact Us", "href": "#", "isCta": true }
