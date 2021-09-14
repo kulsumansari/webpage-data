@@ -1,181 +1,237 @@
 {
-    "surfBoardData":{
-        "page":{
-            "title":"Surfboard Ventures",
-            "icon":"https://kulsumansari.github.io/webpage-data/companyData/surboard-icon.png"
-        },
-        "navData": {
-        "logo": {
-            "imgSrc": "https://kulsumansari.github.io/webpage-data/companyData/Surfboard%20India.png",
-            "alt": "Surfboard India Company Logo"
-        },
-        "navLinks": [
-            { "linkId": "li1", "title": "Home", "href": "/surfboard" },
-            { "linkId": "li2", "title": "Content Stack", "href": "/contentstack" },
-            { "linkId": "li3", "title": "Raw Engineering", "href": "/raweng" },
-            { "linkId": "li4", "title": "Contact Us", "href": "#", "isCta": true }
-        ],
-        "menuUrl":"https://niravkpatel28.github.io/github-image-repository/webpage/menu-black.png"
-        },
-
-        "bannerData": {
-        "companyName": "Surfboard Ventures",
-        "tagline": "Your resilience stands tall against the roughest seas.",
-        "cta" : {
-            "link": "Contact Us",
-            "href":"#"
-        },
-        "bannerImage": "https://kulsumansari.github.io/webpage-data/companyData/surfboardbanner.jpg"
-        },
-
-        "footerData":{
-            "footerLogo":{
-            "imgSrc": "https://kulsumansari.github.io/webpage-data/companyData/Surfboard%20India.png",
-            "alt": "Surfboard India Company Logo"
-            },
-            "footerLinkHead":"Follow Us On",
-            "footerLinks":[
-            {
-                "linkId":"footerLink1",
-                "linkIcon": "twitter",
-                "href": "#"
-            },
-            {
-                "linkId":"footerLink2",
-                "linkIcon": "facebook",
-                "href": "#"
-            },
-            {
-                "linkId":"footerLink3",
-                "linkIcon": "github", 
-                "href": "#"
-            },
-            {
-                "linkId":"footerLink4",
-                "linkIcon": "instagram",
-                "href": "#"
-            }
-            ]
-        }
-    },
-    
-    "rawEngData":{
-        "page":{
-            "title":"Raw Engineering",
-            "icon":"https://kulsumansari.github.io/webpage-data/companyData/raweng-icon.png"
-        },
-        "navData": {
-        "logo": {
-            "imgSrc": "https://kulsumansari.github.io/webpage-data/companyData/raweng-logo.png",
-            "alt": "Surfboard India Company Logo"
-        },
-        "navLinks": [
-            { "linkId": "li1", "title": "Home", "href": "/raweng" },
-            { "linkId": "li2", "title": "Surfboard", "href": "/surfboard" },
-            { "linkId": "li3", "title": "Content Stack", "href": "/contentstack" },
-            { "linkId": "li4", "title": "Contact Us", "href": "#", "isCta": true }
-        ],
-        "menuUrl":"https://niravkpatel28.github.io/github-image-repository/webpage/menu-black.png"
-        },
-
-        "bannerData": {
-        "companyName": "Raw Engineering",
-        "tagline": "Fast Track Innovation From Vision to Reality",
-        "cta" : {
-            "link": "Contact Us",
-            "href":"#"
-        },
-        "bannerImage": "https://kulsumansari.github.io/webpage-data/companyData/banner.jpeg"
-        },
-
-        "footerData":{
-            "footerLogo":{
-            "imgSrc": "https://kulsumansari.github.io/webpage-data/companyData/raweng-logo.png",
-            "alt": "Raw Eng India Company Logo"
-            },
-            "footerLinkHead":"Follow Us On",
-            "footerLinks":[
-            {
-                "linkId":"footerLink1",
-                "linkIcon": "twitter",
-                "href": "#"
-            },
-            {
-                "linkId":"footerLink2",
-                "linkIcon": "facebook",
-                "href": "#"
-            },
-            {
-                "linkId":"footerLink3",
-                "linkIcon": "github", 
-                "href": "#"
-            },
-            {
-                "linkId":"footerLink4",
-                "linkIcon": "instagram",
-                "href": "#"
-            }
-            ]
-        }
-    },
-
-    "contentStackData":{
-        "page":{
-            "title":"Contentstack",
-            "icon":"https://kulsumansari.github.io/webpage-data/companyData/contentstack-icon.png"
+    "ssrData":{
+     "page":{
+         "title":"Surfboard Ventures",
+         "icon":"https://kulsumansari.github.io/webpage-data/companyData/ssr-icon.png"
+     },
+     "navData": {
+         "logo": {
+             "imgSrc": "https://kulsumansari.github.io/webpage-data/companyData/ssr-logo.png",
+             "alt": "Surfboard India Company Logo"
          },
-        "navData": {
-        "logo": {
-            "imgSrc": "https://kulsumansari.github.io/webpage-data/companyData/contentstack-blue-logo.png",
-            "alt": "Surfboard India Company Logo"
-        },
-        "navLinks": [
-            { "linkId": "li1", "title": "Home", "href": "/contentstack" },
-            { "linkId": "li2", "title": "Raw Engineering", "href": "/raweng" },
-            { "linkId": "li3", "title": "Surfboard", "href": "/surfboard" },
-            { "linkId": "li4", "title": "Contact Us", "href": "#", "isCta": true }
-        ],
-        "menuUrl":"https://niravkpatel28.github.io/github-image-repository/webpage/menu-black.png"
-        },
+         "navLinks": [
+             { "linkId": "navLink1", "title": "Home", "href": "/" },
+             { "linkId": "navLink2", "title": "Products", "href": "#Products" },
+             { "linkId": "navLink3", "title": "About Us", "href": "#AboutUs" },
+             { "linkId": "navLink3", "title": "Blogs", "href": "#Blogs" },
+             { "linkId": "navLink4", "title": "Contact Us", "href": "#", "isCta": true }
+         ],
+         "menuUrl":"https://niravkpatel28.github.io/github-image-repository/webpage/menu-black.png"
+     },
+     "partnersData":{
+         "title" : "Our Partners",
+         "partners":[
+         { "partnerId": "link1", "name": "Raw Engineering", "href": "/raweng" },
+         { "partnerId": "link2", "name": "Surfboard Ventures", "href": "/surfboard" },
+         { "partnerId": "link2", "name": "Contentstack", "href": "/contentstack" }
+     ]},
+     "footerData":{
+         "footerLogo":{
+         "imgSrc": "https://kulsumansari.github.io/webpage-data/companyData/ssr-logo.png",
+         "alt": "Surfboard India Company Logo"
+         },
+         "footerLinkHead":"Follow Us On",
+         "footerLinks":[
+         {
+             "linkId":"footerLink1",
+             "linkIcon": "twitter",
+             "href": "#"
+         },
+         {
+             "linkId":"footerLink2",
+             "linkIcon": "facebook",
+             "href": "#"
+         },
+         {
+             "linkId":"footerLink3",
+             "linkIcon": "github", 
+             "href": "#"
+         },
+         {
+             "linkId":"footerLink4",
+             "linkIcon": "instagram",
+             "href": "#"
+         }
+         ]
+     }
+ },
+ "surfBoardData":{
+     "page":{
+         "title":"Surfboard Ventures",
+         "icon":"https://kulsumansari.github.io/webpage-data/companyData/surboard-icon.png"
+     },
+     "navData": {
+     "logo": {
+         "imgSrc": "https://kulsumansari.github.io/webpage-data/companyData/Surfboard%20India.png",
+         "alt": "Surfboard India Company Logo"
+     },
+     "navLinks": [
+         { "linkId": "navLink1", "title": "Home", "href": "/surfboard" },
+         { "linkId": "navLink2", "title": "Contentstack", "href": "/contentstack" },
+         { "linkId": "navLink3", "title": "Raw Engineering", "href": "/raweng" },
+         { "linkId": "navLink4", "title": "Contact Us", "href": "#", "isCta": true }
+     ],
+     "menuUrl":"https://niravkpatel28.github.io/github-image-repository/webpage/menu-black.png"
+     },
 
-        "bannerData": {
-        "companyName": "Content Stack",
-        "tagline": "Moving Towards Headless Content Mangement system",
-        "cta" : {
-            "link": "Contact Us",
-            "href":"#"
-        },
-        "bannerImage": "https://kulsumansari.github.io/webpage-data/companyData/cs-background.png"
-        },
+     "bannerData": {
+     "companyName": "Surfboard Ventures",
+     "tagline": "Your resilience stands tall against the roughest seas.",
+     "cta" : {
+         "link": "Contact Us",
+         "href":"#"
+     },
+     "bannerImage": "https://kulsumansari.github.io/webpage-data/companyData/surfboardbanner.jpg"
+     },
 
-        "footerData":{
-            "footerLogo":{
-            "imgSrc": "https://kulsumansari.github.io/webpage-data/companyData/contentstack-blue-logo.png",
-            "alt": "Contentstack India Company Logo"
-            },
-            "footerLinkHead":"Follow Us On",
-            "footerLinks":[
-              {
-                "linkId":"footerLink1",
-                "linkIcon": "Twitter",
-                "href": "#"
-            },
-            {
-                "linkId":"footerLink2",
-                "linkIcon": "Facebook",
-                "href": "#"
-            },
-            {
-                "linkId":"footerLink3",
-                "linkIcon": "Github", 
-                "href": "#"
-            },
-            {
-                "linkId":"footerLink4",
-                "linkIcon": "Instagram",
-                "href": "#"
-            }
-            ]
-        }
-    }
+     "footerData":{
+         "footerLogo":{
+         "imgSrc": "https://kulsumansari.github.io/webpage-data/companyData/Surfboard%20India.png",
+         "alt": "Surfboard India Company Logo"
+         },
+         "footerLinkHead":"Follow Us On",
+         "footerLinks":[
+         {
+             "linkId":"footerLink1",
+             "linkIcon": "twitter",
+             "href": "#"
+         },
+         {
+             "linkId":"footerLink2",
+             "linkIcon": "facebook",
+             "href": "#"
+         },
+         {
+             "linkId":"footerLink3",
+             "linkIcon": "github", 
+             "href": "#"
+         },
+         {
+             "linkId":"footerLink4",
+             "linkIcon": "instagram",
+             "href": "#"
+         }
+         ]
+     }
+ },
+ 
+ "rawEngData":{
+     "page":{
+         "title":"Raw Engineering",
+         "icon":"https://kulsumansari.github.io/webpage-data/companyData/raweng-icon.png"
+     },
+     "navData": {
+     "logo": {
+         "imgSrc": "https://kulsumansari.github.io/webpage-data/companyData/raweng-logo.png",
+         "alt": "Surfboard India Company Logo"
+     },
+     "navLinks": [
+         { "linkId": "navLink1", "title": "Home", "href": "/raweng" },
+         { "linkId": "navLink2", "title": "Surfboard", "href": "/surfboard" },
+         { "linkId": "navLink3", "title": "Contentstack", "href": "/contentstack" },
+         { "linkId": "navLink4", "title": "Contact Us", "href": "#", "isCta": true }
+     ],
+     "menuUrl":"https://niravkpatel28.github.io/github-image-repository/webpage/menu-black.png"
+     },
+
+     "bannerData": {
+     "companyName": "Raw Engineering",
+     "tagline": "Fast Track Innovation From Vision to Reality",
+     "cta" : {
+         "link": "Contact Us",
+         "href":"#"
+     },
+     "bannerImage": "https://kulsumansari.github.io/webpage-data/companyData/banner.jpeg"
+     },
+
+     "footerData":{
+         "footerLogo":{
+         "imgSrc": "https://kulsumansari.github.io/webpage-data/companyData/raweng-logo.png",
+         "alt": "Raw Eng India Company Logo"
+         },
+         "footerLinkHead":"Follow Us On",
+         "footerLinks":[
+         {
+             "linkId":"footerLink1",
+             "linkIcon": "twitter",
+             "href": "#"
+         },
+         {
+             "linkId":"footerLink2",
+             "linkIcon": "facebook",
+             "href": "#"
+         },
+         {
+             "linkId":"footerLink3",
+             "linkIcon": "github", 
+             "href": "#"
+         },
+         {
+             "linkId":"footerLink4",
+             "linkIcon": "instagram",
+             "href": "#"
+         }
+         ]
+     }
+ },
+
+ "contentStackData":{
+     "page":{
+         "title":"Contentstack",
+         "icon":"https://kulsumansari.github.io/webpage-data/companyData/contentstack-icon.png"
+      },
+     "navData": {
+     "logo": {
+         "imgSrc": "https://kulsumansari.github.io/webpage-data/companyData/contentstack-blue-logo.png",
+         "alt": "Surfboard India Company Logo"
+     },
+     "navLinks": [
+         { "linkId": "navLink1", "title": "Home", "href": "/contentstack" },
+         { "linkId": "navLink2", "title": "Raw Engineering", "href": "/raweng" },
+         { "linkId": "navLink3", "title": "Surfboard", "href": "/surfboard" },
+         { "linkId": "navLink4", "title": "Contact Us", "href": "#", "isCta": true }
+     ],
+     "menuUrl":"https://niravkpatel28.github.io/github-image-repository/webpage/menu-black.png"
+     },
+
+     "bannerData": {
+     "companyName": "Content Stack",
+     "tagline": "Moving Towards Headless Content Mangement system",
+     "cta" : {
+         "link": "Contact Us",
+         "href":"#"
+     },
+     "bannerImage": "https://kulsumansari.github.io/webpage-data/companyData/cs-background.png"
+     },
+
+     "footerData":{
+         "footerLogo":{
+         "imgSrc": "https://kulsumansari.github.io/webpage-data/companyData/contentstack-blue-logo.png",
+         "alt": "Contentstack India Company Logo"
+         },
+         "footerLinkHead":"Follow Us On",
+         "footerLinks":[
+           {
+             "linkId":"footerLink1",
+             "linkIcon": "Twitter",
+             "href": "#"
+         },
+         {
+             "linkId":"footerLink2",
+             "linkIcon": "Facebook",
+             "href": "#"
+         },
+         {
+             "linkId":"footerLink3",
+             "linkIcon": "Github", 
+             "href": "#"
+         },
+         {
+             "linkId":"footerLink4",
+             "linkIcon": "Instagram",
+             "href": "#"
+         }
+         ]
+     }
+ }
 }
