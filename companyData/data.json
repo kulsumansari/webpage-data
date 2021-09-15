@@ -30,29 +30,49 @@
          "imgSrc": "https://kulsumansari.github.io/webpage-data/companyData/ssr-logo.png",
          "alt": "Server Side Rendering Logo"
          },
-         "footerLinkHead":"Follow Us On",
-         "footerLinks":[
+         "footerLinkHead":"Quick Links",
+          "footerLinks":[
          {
              "linkId":"footerLink1",
-             "linkIcon": "twitter",
+             "linkTitle": "About us",
              "href": "#"
          },
          {
              "linkId":"footerLink2",
-             "linkIcon": "facebook",
+             "linkTitle": "Careers",
              "href": "#"
          },
          {
              "linkId":"footerLink3",
-             "linkIcon": "github", 
+             "linkIcon": "Products", 
              "href": "#"
          },
          {
              "linkId":"footerLink4",
-             "linkIcon": "instagram",
+             "linkTitle": "Partners",
              "href": "#"
-         }
-         ]
+         },
+         {
+            "linkId":"footerLink5",
+            "linkTitle": "Blogs",
+            "href": "#"
+         },
+         {
+            "linkId":"footerLink6",
+            "linkTitle": "Privacy Policy",
+            "href": "#"
+         },
+         {
+            "linkId":"footerLink7",
+            "linkTitle": "FAQ's",
+            "href": "#"
+         },
+         {
+            "linkId":"footerLink8",
+            "linkTitle": "Contact Us",
+            "href": "#"
+        }
+        ]
      }
  },
  "surfBoardData":{
@@ -90,29 +110,49 @@
          "imgSrc": "https://kulsumansari.github.io/webpage-data/companyData/Surfboard%20India.png",
          "alt": "Surfboard India Company Logo"
          },
-         "footerLinkHead":"Follow Us On",
-         "footerLinks":[
+ "footerLinkHead":"Quick Links",
+          "footerLinks":[
          {
              "linkId":"footerLink1",
-             "linkIcon": "twitter",
+             "linkTitle": "About us",
              "href": "#"
          },
          {
              "linkId":"footerLink2",
-             "linkIcon": "facebook",
+             "linkTitle": "Careers",
              "href": "#"
          },
          {
              "linkId":"footerLink3",
-             "linkIcon": "github", 
+             "linkIcon": "Products", 
              "href": "#"
          },
          {
              "linkId":"footerLink4",
-             "linkIcon": "instagram",
+             "linkTitle": "Partners",
              "href": "#"
-         }
-         ]
+         },
+         {
+            "linkId":"footerLink5",
+            "linkTitle": "Blogs",
+            "href": "#"
+         },
+         {
+            "linkId":"footerLink6",
+            "linkTitle": "Privacy Policy",
+            "href": "#"
+         },
+         {
+            "linkId":"footerLink7",
+            "linkTitle": "FAQ's",
+            "href": "#"
+         },
+         {
+            "linkId":"footerLink8",
+            "linkTitle": "Contact Us",
+            "href": "#"
+        }
+        ]
      }
  },
  
@@ -151,29 +191,49 @@
          "imgSrc": "https://kulsumansari.github.io/webpage-data/companyData/raweng-logo.png",
          "alt": "Raw Eng India Company Logo"
          },
-         "footerLinkHead":"Follow Us On",
-         "footerLinks":[
+ "footerLinkHead":"Quick Links",
+          "footerLinks":[
          {
              "linkId":"footerLink1",
-             "linkIcon": "twitter",
+             "linkTitle": "About us",
              "href": "#"
          },
          {
              "linkId":"footerLink2",
-             "linkIcon": "facebook",
+             "linkTitle": "Careers",
              "href": "#"
          },
          {
              "linkId":"footerLink3",
-             "linkIcon": "github", 
+             "linkIcon": "Products", 
              "href": "#"
          },
          {
              "linkId":"footerLink4",
-             "linkIcon": "instagram",
+             "linkTitle": "Partners",
              "href": "#"
-         }
-         ]
+         },
+         {
+            "linkId":"footerLink5",
+            "linkTitle": "Blogs",
+            "href": "#"
+         },
+         {
+            "linkId":"footerLink6",
+            "linkTitle": "Privacy Policy",
+            "href": "#"
+         },
+         {
+            "linkId":"footerLink7",
+            "linkTitle": "FAQ's",
+            "href": "#"
+         },
+         {
+            "linkId":"footerLink8",
+            "linkTitle": "Contact Us",
+            "href": "#"
+        }
+        ]
      }
  },
 
@@ -212,29 +272,49 @@
          "imgSrc": "https://kulsumansari.github.io/webpage-data/companyData/contentstack-blue-logo.png",
          "alt": "Contentstack India Company Logo"
          },
-         "footerLinkHead":"Follow Us On",
-         "footerLinks":[
-           {
+  "footerLinkHead":"Quick Links",
+          "footerLinks":[
+         {
              "linkId":"footerLink1",
-             "linkIcon": "Twitter",
+             "linkTitle": "About us",
              "href": "#"
          },
          {
              "linkId":"footerLink2",
-             "linkIcon": "Facebook",
+             "linkTitle": "Careers",
              "href": "#"
          },
          {
              "linkId":"footerLink3",
-             "linkIcon": "Github", 
+             "linkIcon": "Products", 
              "href": "#"
          },
          {
              "linkId":"footerLink4",
-             "linkIcon": "Instagram",
+             "linkTitle": "Partners",
              "href": "#"
-         }
-         ]
+         },
+         {
+            "linkId":"footerLink5",
+            "linkTitle": "Blogs",
+            "href": "#"
+         },
+         {
+            "linkId":"footerLink6",
+            "linkTitle": "Privacy Policy",
+            "href": "#"
+         },
+         {
+            "linkId":"footerLink7",
+            "linkTitle": "FAQ's",
+            "href": "#"
+         },
+         {
+            "linkId":"footerLink8",
+            "linkTitle": "Contact Us",
+            "href": "#"
+        }
+        ]
      }
  }
 }
